@@ -1,0 +1,29 @@
+body{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwbTZY7TqOie2PME33SS0X0uYm2FSU7igxZlL6U9J8-g&s");
+    background-size: cover;
+}
+img {
+ height:150px;
+ margin-left:auto;
+ margin-right: auto;
+ display: block;
+ width: 225px;
+}
+#card{
+    border: 5px solid blueviolet;
+    width: 250px;
+    padding: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgray;
+    margin-top: 100px;
+}
+h2{
+    text-align: center;
+    font-size: small;
+    color: coral;
+}
+p{
+    text-align: justify;
+    color: darkslategrey;
+}

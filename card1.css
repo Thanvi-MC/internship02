@@ -1,0 +1,9 @@
+#card1 {
+    border: 5px solid blueviolet;
+    width: 250px;
+    padding: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgray;
+    margin-top: 100px;
+}
